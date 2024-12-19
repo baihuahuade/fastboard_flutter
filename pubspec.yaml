@@ -13,9 +13,9 @@ dependencies:
     whiteboard_sdk_flutter: ^0.5.4
     # whiteboard_sdk_flutter:
     #     path: ../whiteboard_flutter
-    flutter_svg: ^1.0.3
+    flutter_svg: ^2.0.10+1
     stream_transform: ^2.0.0
-    i18n_extension: ^5.0.0
+    i18n_extension: ^13.0.2
 
 dev_dependencies:
     flutter_test:
